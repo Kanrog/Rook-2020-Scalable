@@ -3,6 +3,7 @@
 <h1>Rook 2020 Scalable</h1>
 
 <p>This is my mod for the Rook 2020 to make it fully scalable to any size.<br />
+<p>This also adds a tripple belted Z-axis</p>
 <br />
 To determine your extrusion and rail lenghts, add 150mm to your bed-size and 100mm to your desired Z-height<br />
 <br />
