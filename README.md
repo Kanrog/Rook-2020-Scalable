@@ -12,3 +12,6 @@ X-axis extrusion and rail is 50mm shorter than your top frame.<br />
 <br />
 Supports MGN9C for the Z axis and X axis, and MGN12C for Y-axis.<br />
 In theory, the X axis can use any rail to adapt to your desired printhead.</p>
+
+<br />
+Please note that this has not been built yet, let me know if you want to build it!</p>
