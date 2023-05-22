@@ -1,5 +1,8 @@
+<p><img alt="" src="https://github.com/Kanrog/Rook-2020-Scalable/blob/main/Images/rook2020scalable.jpg?raw=true" /></p>
+
+<h1> Rook 2020 Scalable</h1>
+
 <p>This is my mod for the Rook 2020 to make it fully scalable to any size.<br />
-&nbsp;</p>
 
 <p>This also adds a tripple belted Z-axis<br />
 <br />
@@ -16,9 +19,8 @@ Fo for a 200x200x200 build volume, your extrusions would be 350x350 for top and 
 Supports MGN9C for the Z axis and X axis, and MGN12C for Y-axis.<br />
 In theory, the X axis can use any rail to adapt to your desired printhead.<br />
 <br />
-Want to use the parts from your Ender-3? have a look at&nbsp;<a href="https://www.printables.com/model/487388-rook-e3" rel="ugc" target="_blank">THIS</a></p>
+Want to use the parts from your Ender-3? have a look at <a href="https://www.printables.com/model/487388-rook-e3" rel="ugc" target="_blank">THIS</a></p>
 
-<p>&nbsp;</p>
 
 <h4><br />
 <em>Want to help me beta-test this? let me know!</em></h4>
