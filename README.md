@@ -21,7 +21,7 @@ In theory, the X axis can use any rail to adapt to your desired printhead.<br />
 <br />
 Want to use the parts from your Ender-3? have a look at <a href="https://www.printables.com/model/487388-rook-e3" rel="ugc" target="_blank">THIS</a></p>
 
-<a href="https://discord.com/channels/@me/1110495752729415721/1110500199102685225" rel="ugc" target="_blank">Rough BOM (WIP)</a></p>
+<a href="https://docs.google.com/spreadsheets/d/1HToAhn2cysvaPQEpnX_CcEi542RhAoKbjcgvA1xYTR8/edit?usp=sharing" rel="ugc" target="_blank">Rough BOM (WIP)</a></p>
 
 
 <h4><br />
