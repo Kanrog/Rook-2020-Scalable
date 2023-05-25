@@ -18,16 +18,9 @@ Fo for a 200x200x200 build volume, your extrusions would be 350x350 for top and 
 <br />
 Supports MGN9C for the Z axis and X axis, and MGN12C for Y-axis.<br />
 In theory, the X axis can use any rail to adapt to your desired printhead.<br />
+
+<h3>heres a calculator to help you find your extrusion and rail-sizes</h3>
 <br />
-Want to use the parts from your Ender-3? have a look at <a href="https://www.printables.com/model/487388-rook-e3" rel="ugc" target="_blank">THIS</a></p>
-
-<a href="https://docs.google.com/spreadsheets/d/1HToAhn2cysvaPQEpnX_CcEi542RhAoKbjcgvA1xYTR8/edit?usp=sharing" rel="ugc" target="_blank">Rough BOM (WIP)</a></p>
-
-
-
-<h4><br />
-<em>Want to help me beta-test this? let me know!</em></h4>
-
 <!DOCTYPE html>
 <html>
   <body> Desired X Size: <input type="text" id="size_input_x">
@@ -50,3 +43,12 @@ Want to use the parts from your Ender-3? have a look at <a href="https://www.pri
     </script>
   </body>
 </html>
+<br />
+Want to use the parts from your Ender-3? have a look at <a href="https://www.printables.com/model/487388-rook-e3" rel="ugc" target="_blank">THIS</a></p>
+
+<a href="https://docs.google.com/spreadsheets/d/1HToAhn2cysvaPQEpnX_CcEi542RhAoKbjcgvA1xYTR8/edit?usp=sharing" rel="ugc" target="_blank">Rough BOM (WIP)</a></p>
+
+
+
+<h4><br />
+<em>Want to help me beta-test this? let me know!</em></h4>
