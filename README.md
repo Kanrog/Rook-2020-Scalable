@@ -27,3 +27,26 @@ Want to use the parts from your Ender-3? have a look at <a href="https://www.pri
 
 <h4><br />
 <em>Want to help me beta-test this? let me know!</em></h4>
+
+<!DOCTYPE html>
+<html>
+  <body> Desired X Size: <input type="text" id="size_input_x">
+    <br> Desired Y Size: <input type="text" id="size_input_y">
+    <br> Desired Z Size: <input type="text" id="size_input_z">
+    <br>
+    <button onclick="Calculate()">Submit</button>
+    <script>
+      function Calculate() {
+        var input_x = document.getElementById("size_input_x").value;
+        var input_y = document.getElementById("size_input_y").value;
+        var input_z = document.getElementById("size_input_z").value;
+        var total_x = parseFloat(input_x) + 150.0;
+        var total_x_2 = total_x - 50.0;
+        var total_y = parseFloat(input_y);
+        var total_y_2 = total_y + 150.0;
+        var total_z = parseFloat(input_z) + 100.0;
+        alert("X will need: 6x " + total_x + "mm, 1x " + total_x_2 + "mm and 1x " + (total_x - 150.0) + "mm MGN9C rail\nY will need: 4x " + total_y_2 + "mm, 2x " + total_y + "mm and 2x " + total_y + "mm MGN12C rails\nZ will need: 5x " + total_z + "mm and 3x " + (total_z - 100.0) + "mm MGN9C rails\n");
+      }
+    </script>
+  </body>
+</html>
