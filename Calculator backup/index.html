@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div>
+      <h1>Kangulator</h1>
+
+      <div class="inputs">
+        <input type="number" id="xSize" placeholder="X Size" required />
+        <input type="number" id="ySize" placeholder="Y Size" required />
+        <input type="number" id="zSize" placeholder="Z Size" required />
+      </div>
+      <input type="checkbox" id="round" onchange="calculate()" checked />
+      <label for="round">Round to nearest avaliable sizes</label>
+
+      <h3> Please note, the calculator can round up to the nearest 50mm because of rail-availability</h3>
+      <hr />
+
+      <p id="xOutput"></p>
+
+      <p id="yOutput"></p>
+
+      <p id="zOutput"></p>
+
+      
+    </div>
+  </body>
+  <script src="script.js" defer></script>
+</html>
