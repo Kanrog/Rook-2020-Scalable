@@ -15,10 +15,12 @@ Uses the same BOM as the ROOK 2020, but with some additional hardware.<br />
 For a 200x200x200 build volume, your extrusions would be 350x350 for top and bottom frame and 300 for Z.<br />
 <br />
 <em><strong>X-axis extrusion and rail is 50mm shorter than your top frame.</strong></em><br />
-<br />Bed is made up of 2x extrusions the same length as your top frame and 2x the same as your top-frame - 150mm.<br />
+<br />
+<p>Bed is made up of 2x extrusions the same length as your top frame and 2x the same as your top-frame - 150mm.<p/>
 <br />
 Supports MGN9C for the Z axis and X axis, and MGN12C for Y-axis.<br />
 In theory, the X axis can use any rail to adapt to your desired printhead.<br />
+<br />
 <s>Here is a calculator by Icesythe7 and MartinBspheroid to help you find your sizes!<br />
 <h3><a href="https://web-platform-ckmhns.stackblitz.io" rel="ugc" target="_blank">Rook Scalable Calculator </a></h3>
 </s>
