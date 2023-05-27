@@ -22,11 +22,8 @@ Supports MGN9C for the Z axis and X axis, and MGN12C for Y-axis.<br />
 In theory, the X axis can use any rail to adapt to your desired printhead.<br />
 <br />
 Here is a calculator by Icesythe7 and MartinBspheroid to help you find your sizes!<br />
-<<<<<<< HEAD
+
 <h3><a href="https://kanrog.github.io/Rook-2020-Scalable-Calculator/" rel="ugc" target="_blank">Rook Scalable Calculator </a></h3>
-=======
-<h3><a href="https://joejoe317.github.io/kanrogCalc/" rel="ugc" target="_blank">Rook Scalable Calculator </a></h3>
->>>>>>> 74d4688cd5ba652aec54e249ddcdfe9874a8f2a5
 
 <br />
 Want to use the parts from your Ender-3? have a look at <a href="https://www.printables.com/model/487388-rook-e3" rel="ugc" target="_blank">THIS</a></p>
