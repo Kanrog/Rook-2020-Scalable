@@ -21,9 +21,9 @@ For a 200x200x200 build volume, your extrusions would be 350x350 for top and bot
 Supports MGN9C for the Z axis and X axis, and MGN12C for Y-axis.<br />
 In theory, the X axis can use any rail to adapt to your desired printhead.<br />
 <br />
-<s>Here is a calculator by Icesythe7 and MartinBspheroid to help you find your sizes!<br />
-<h3><a href="https://web-platform-ckmhns.stackblitz.io" rel="ugc" target="_blank">Rook Scalable Calculator </a></h3>
-</s>
+Here is a calculator by Icesythe7 and MartinBspheroid to help you find your sizes!<br />
+<h3><a href="https://joejoe317.github.io/kanrogCalc/" rel="ugc" target="_blank">Rook Scalable Calculator </a></h3>
+
 <br />
 Want to use the parts from your Ender-3? have a look at <a href="https://www.printables.com/model/487388-rook-e3" rel="ugc" target="_blank">THIS</a></p>
 
