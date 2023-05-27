@@ -33,3 +33,5 @@ Want to use the parts from your Ender-3? have a look at <a href="https://www.pri
 
 <h4><br />
 <em>Want to help me beta-test this? let me know!</em></h4>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F3LNZ6A)
