@@ -9,6 +9,8 @@
 Uses the same BOM as the ROOK 2020, but with some additional hardware.<br />
 <em>(Full BOM will be made when it is built and tested)</em></p>
 
+(please note, the diagonal step is not updated, it was only made for the bed-section)
+
 <p><br />
 <em><strong>To determine your extrusion and rail lenghts, add 150mm to your bed-size and 100mm to your desired Z-height</strong></em><br />
 <br />
