@@ -1,4 +1,4 @@
-<p><img alt="" src="https://github.com/Kanrog/Rook-2020-Scalable/blob/main/Images/Rook_2020_extended_12-06-23.png?raw=true" /></p>
+<p><img alt="" src="https://github.com/Kanrog/Rook-2020-Scalable/blob/main/Images/Rook_2020_extended_12-06-23.PNG?raw=true" /></p>
 
 <h1> Rook 2020 Scalable</h1>
 
