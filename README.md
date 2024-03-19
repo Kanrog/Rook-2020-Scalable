@@ -1,3 +1,5 @@
+<h4>STLs are not updated here anymore, only on printables.</h4>
+<h3><a href="https://www.printables.com/model/482283-rook-2020-scalable-mk1" rel="ugc" target="_blank">Check this out on printables </a></h3>
 <p><img alt="" src="https://github.com/Kanrog/Rook-2020-Scalable/blob/main/Images/Rook_2020_extended_12-06-23.PNG?raw=true" /></p>
 
 <h1> Rook 2020 Scalable</h1>
